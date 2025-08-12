@@ -31,19 +31,31 @@ Tecnologias Utilizadas
 - **Postman** (testes e documentação)
 
 
-Estrutura do Projeto
+Estrutura do Projeto:
+
 src/main/java/com/exemplo/tarefas/
 ├── TarefasApplication.java # Classe principal
+
 ├── model/
+
 │ └── Tarefa.java # Entidade
+
 ├── repository/
+
 │ └── TarefaRepository.java # Repositório JPA
+
 ├── service/
+
 │ └── TarefaService.java # Lógica de negócio
+
 ├── controller/
+
 │ └── TarefaController.java # Endpoints REST
+
 └── exception/
+
 ├── ResourceNotFoundException.java
+
 └── GlobalExceptionHandler.java
 
 
