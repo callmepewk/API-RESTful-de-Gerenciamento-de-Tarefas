@@ -34,6 +34,7 @@ Tecnologias Utilizadas
 Estrutura do Projeto:
 
 src/main/java/com/exemplo/tarefas/
+
 ├── TarefasApplication.java # Classe principal
 
 ├── model/
