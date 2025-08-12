@@ -1,8 +1,11 @@
 API RESTful de Gerenciamento de Tarefas
 
 Projeto desenvolvido como parte do *Trabalho de Desenvolvimento Web Back-end*
+
 Professora: Luciane Kanashiro, Me  
+
 Aluno: Pedro Henrique Brezolin de Freitas 
+
 RU: 4683201
 
 
