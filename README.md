@@ -36,32 +36,7 @@ Tecnologias Utilizadas
 
 Estrutura do Projeto:
 
-src/main/java/com/exemplo/tarefas/
-
-├── TarefasApplication.java # Classe principal
-
-├── model/
-
-│ └── Tarefa.java # Entidade
-
-├── repository/
-
-│ └── TarefaRepository.java # Repositório JPA
-
-├── service/
-
-│ └── TarefaService.java # Lógica de negócio
-
-├── controller/
-
-│ └── TarefaController.java # Endpoints REST
-
-└── exception/
-
-├── ResourceNotFoundException.java
-
-└── GlobalExceptionHandler.java
-
+<img width="426" height="374" alt="image" src="https://github.com/user-attachments/assets/7ec2a20f-a575-4484-a6f8-b1e1811ea81b" />
 
 Configuração do Banco de Dados
 
